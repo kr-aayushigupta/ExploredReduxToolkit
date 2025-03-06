@@ -1,0 +1,30 @@
+.div1 {
+    background-color: #88BDF2;
+    color:black;
+    padding: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.div2 {
+    background-color: #BDDDFC;
+    color: rgb(0, 0, 0);
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+}
+.mydiv{
+    background-color: #88BDF2;
+    font-family: Sans-Serif;
+    text-align: center;
+    display:flex;
+    padding: 40px 300px;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+button{
+    padding: 10px;
+    font-size: medium;
+}
+
+  
