@@ -7,5 +7,4 @@
     "Redux requires too much boilerplate code"
 
 
-![Screenshot from 2025-03-06 16-40-14](https://github.com/user-attachments/assets/17c3648e-66d8-495a-955f-b3f2dbcc6e50)
 
